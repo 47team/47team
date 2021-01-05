@@ -1,14 +1,14 @@
 #                               *47 Team - XLVII*
 
 
-<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/795203136751009822/795416386151251968/d360f1827f7996e9e0a3ccb6f584c848.gif" />
+<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/756887281465557032/795825619551780874/47.gif" width="600" height="400" />
 
 <p align="center">Olá, somos a 47.
 Uma das mais antigas team de programadores web, atualmente somos apenas grupo para amigos, mas nunca paramos... Em breve estaremos de volta. </p>
 
 
-##                                *Linguagens e Ferramentas*
 
+<img align="center" alt="GIF" src="https://cdn.discordapp.com/attachments/756887281465557032/795821893541167114/47team.png" width="300" height="300" />
 
 
 
@@ -27,3 +27,5 @@ Uma das mais antigas team de programadores web, atualmente somos apenas grupo pa
 <img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/node-dot-js.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
 <img right="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="40" width="40"/></p>
+
+
